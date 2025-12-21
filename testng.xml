@@ -2,7 +2,7 @@
 <suite name="LoginSuite">
 	<test thread-count="5" name="login">
 		<classes>
-			<class name="tests.LoginTest">
+			<class name="tests.LoginTest1">
 			</class>
 		</classes>
 	</test>
