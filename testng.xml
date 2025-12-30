@@ -3,7 +3,9 @@
 	<test thread-count="5" name="login">
 		<classes>
 			<class name="tests.LoginTest1">
+				
 			</class>
 		</classes>
 	</test>
+
 </suite>
